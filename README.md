@@ -1,2 +1,2 @@
-# learn_go
+# GoUploadDownload
 Simple auth &amp; upload function using Go
